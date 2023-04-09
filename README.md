@@ -40,7 +40,7 @@ run myapp --help
 
 ~~run gedit file.txt~~
 
-~~run atp-get update~~
+~~run apt-get update~~
 ## Building from Source
 1. Install GCC and G++
 ```bash
